@@ -22,6 +22,7 @@ pip install -r requirements.txt
 brew install ffmpeg
 
 **Usage**
+
 python3 youtube_download.py "<youtube_url>"
 
 Then enter choice of quality.
