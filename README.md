@@ -16,7 +16,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 3. Install dependencies
-python -m pip install yt-dlp
+pip install -r requirements.txt
 
 4. Install FFmpeg (needed to merge video and audio)
 brew install ffmpeg
