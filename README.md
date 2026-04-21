@@ -25,3 +25,10 @@ brew install ffmpeg
 python3 youtube_download.py "<youtube_url>"
 
 Then enter choice of quality.
+
+**Example Usage**
+
+python3 youtube_download.py "https://youtube.com/..."
+
+Quality: 1080
+downloading...
